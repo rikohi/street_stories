@@ -372,7 +372,7 @@ opacity: .9;
     background-color: #fec503;
 }
 #vision {
-    background-image: url('../img/01_services.jpg');
+    background-image: url('../img/bikes_bnw.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 580px;
@@ -1396,6 +1396,6 @@ border-color: #E3B106;
 
 /* Slide 2 */
 #about-parallax .bcg {
-    background-image:url('../img/grandpa_kid_sml.jpeg');
+    background-image:url('../img/grandpa_kid_sml_screen.jpg');
     color: #ffffff;
 }
